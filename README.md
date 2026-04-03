@@ -1,13 +1,13 @@
 ## Hi there 👋
-This is Ollie, an aspiring surgeon and researcher
-Im currently working on a HMS clone
-Im currently learing python, CSS, and HTML
-Im looking to collaborate on LMS clone
-I need help with learing python
-You can ask me about human anatomy
-You can reach me through my email
-My pronouns as He/Him
-Fun fact; I love writing scientific papers
+This is Ollie, an aspiring surgeon and researcher.
+Im currently working on a HMS clone.
+Im currently learing python, CSS, and HTML.
+Im looking to collaborate on LMS clone.
+I need help with learing python.
+You can ask me about human anatomy.
+You can reach me through my email.
+My pronouns as He/Him.
+Fun fact; I love writing scientific papers.
 
 <!--
 **Ollie-Kinoti/Ollie-Kinoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
